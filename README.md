@@ -1,9 +1,8 @@
-# Slack_Bot
-
+# Alex_Bot
 So far, the bot can have a simple conversation with a human, solve math problems, make some jokes, say what time it is, ask for an introduction when someone gets into the channel, and understand some commands
 
 
-## Our Core Library
+## How Alex_Bot works
 The Core library used to make Alex being able to have a conversation is "Chatterbot" which is a python library that uses a selection of machine learning algorithms to produce different types of responses making use of different NLP libraries like NLTK, spaCy, etc.
 
 
@@ -69,3 +68,8 @@ tomlkit==0.11.1
 tqdm==4.64.0
 typing_extensions==4.3.0
 wrapt==1.14.1
+
+
+## Please see the attached link for a deep explanation of the project
+
+https://express.adobe.com/page/4jptPA95vwemf/
